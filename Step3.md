@@ -1,3 +1,8 @@
+---
+layout: page
+title: Step 3
+permalink: /Step3
+---
 # Step 3: Collaborate with colleagues 
 
 Find out how to engage your colleagues in the discussion and work out who to get involved.

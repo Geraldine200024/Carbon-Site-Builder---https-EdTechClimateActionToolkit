@@ -1,3 +1,8 @@
+---
+layout: page
+title: Step 2
+permalink: /Step2
+---
 # Step 2: Ask the right quesions
 
 **An important first step is understanding your sphere of influence and working out where your workplace is on it's journey. **
