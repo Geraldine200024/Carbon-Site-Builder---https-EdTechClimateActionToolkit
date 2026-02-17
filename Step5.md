@@ -1,3 +1,8 @@
+---
+layout: page
+title: Step 5
+permalink: /Step5
+---
 # Step 5: Take action 
 
 **You’ve started the conversation and now you need to build your idea and work out a plan to start putting it into effect.
