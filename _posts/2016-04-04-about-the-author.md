@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: facts
+title: "About Us"
+author: "ALTSIG"
+categories: 
 tags: [sample]
-image: cuba-2.jpg
+image: https://storage.googleapis.com/bucket_g2627_456/quickstart-folder/pexels-goumbik-296085.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+This toolkit was developed by individuals from several different UK universities who wanted to do something about the role of Educational Technology in the Climate and Ecological crisis.  [ALT SIG website ](https://www.alt.ac.uk/digital-accessibility-sig) for more information and to join the group.
+
