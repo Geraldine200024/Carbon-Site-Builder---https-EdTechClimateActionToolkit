@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "Welcome to the ed tech climate toolkit"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
+The Ed Tech Climate toolkit is designed to be used by those in digital education roles.
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Get started
+Step 1 – Get to know your impact – go to step
+Step 2 – Ask the right questions – go to step
+Step 3 – Collaborate with colleagues – go to step
+Step 4 – Hold the conversation – go to step
+Step 5 – Take action – go to step
+
 
 ## Getting Started
 
