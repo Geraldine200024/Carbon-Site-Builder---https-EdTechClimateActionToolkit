@@ -12,7 +12,7 @@ menu:
 - {name: 'Step2', url: 'Step2'}
 - {name: 'Step3', url: 'Step3'}
 - {name: 'Step4', url: 'Step4'}
-- {name: 'Step5', url: 'Step5}
+- {name: 'Step5', url: 'Step5'}
 - {name: 'aboutUs', url: 'aboutUs'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
